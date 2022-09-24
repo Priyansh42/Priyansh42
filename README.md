@@ -26,7 +26,7 @@
 
 #
 <h3 align="left">GitHub Profile Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansh42" alt="priyansh42" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansh42&theme=darkhub&row=2&column=4" alt="priyansh42" /></a> </p>
 
 #
 <h3 align="left">Blogs and Articles:</h3>
