@@ -31,6 +31,7 @@
 #
 <h3 align="left">Medium Articles:</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Everything you need to know about Blockchain as a Service &lpar;BaaS&rpar;](https://medium.com/@priyansh42/everything-you-need-to-know-about-blockchain-as-a-service-baas-7cea30d8aa8d?source=rss-f7bdb12ffb42------2)
 <!-- BLOG-POST-LIST:END -->
 
 #
