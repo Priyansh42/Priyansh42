@@ -29,7 +29,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansh42" alt="priyansh42" /></a> </p>
 
 #
-<h3 align="left">Medium Articles:</h3>
+<h3 align="left">Blogs and Articles:</h3>
 <!-- BLOG-POST-LIST:START -->
 - [Everything you need to know about Blockchain as a Service &lpar;BaaS&rpar;](https://medium.com/@priyansh42/everything-you-need-to-know-about-blockchain-as-a-service-baas-7cea30d8aa8d?source=rss-f7bdb12ffb42------2)
 <!-- BLOG-POST-LIST:END -->
