@@ -12,8 +12,6 @@
 
 - 📝 I write articles on [https://medium.com/@priyansh42](https://medium.com/@priyansh42)
 
-- 📫 Reach me at **shahpriyansh.515@gmail.com**
-
 #
 <h3 align="left">Connect with me:</h3>
 <p align="left">
