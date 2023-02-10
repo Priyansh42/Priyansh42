@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh42&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh42" /> </p>
 
-- 🔭 I’m currently working on [Image Classification of Stroke Blood Clot Origin](https://github.com/Priyansh42/Stroke-Blood-Clot-Classification)
+- 🔭 I’m currently working on **Samved e-Care Portal Development**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
