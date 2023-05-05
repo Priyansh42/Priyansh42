@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Priyansh Shah</h1>
 
+<h3 align="center">A passionate Computer Geek eager to learn new things.</h3>
+
 <img align="right" alt="Coding" width="400" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh42&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh42" /> </p>
 
-- 🔭 I’m currently working on **Web Development Project**
+- 🔭 I’m currently looking for **Internship / Part-Time Job**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
