@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh42&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh42" /> </p>
 
-- 🔭 I’m currently looking for **Internship / Part-Time Job**
+- 🔭 I’m currently looking for **Full-Time Job**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
