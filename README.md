@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh42&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh42" /> </p>
 
-- 🔭 I’m currently looking for **Full-Time Job**
-
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priyansh42](https://github.com/Priyansh42)
@@ -19,9 +17,9 @@
 #
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyansh42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyansh42" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18683687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18683687" height="30" width="40" /></a>
-<a href="https://medium.com/@priyansh42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@priyansh42" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priyansh42" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="priyansh42" height="33" width="35" /></a>
+<a href="https://stackoverflow.com/users/18683687/priyansh42" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/800px-Stack_Overflow_icon.svg.png" alt="18683687" height="35" width="40" /></a>
+<a href="https://medium.com/@priyansh42" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="@priyansh42" height="45" width="50" /></a>
 </p>
 
 #
